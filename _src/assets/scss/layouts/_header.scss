@@ -1,0 +1,24 @@
+.header__container {
+  padding: 20px 0px;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  background: black;
+  align-items: center;
+}
+
+.header__logo__img {
+  width: 5.5625rem;
+}
+.header__menu--item {
+  display: inline-block;
+}
+
+.header__menu--link {
+  color: white;
+  list-style: none;
+  text-decoration: none;
+  padding: 20px;
+}
